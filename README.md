@@ -1,0 +1,1 @@
+# Minimum-two-person-method
